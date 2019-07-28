@@ -1,18 +1,18 @@
 # Site settings
 title: Bingo Blog
 SEOTitle: Bingo的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-desk2.jpg
 email: 752038@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, Bino的博客, Bingo, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://18582088138.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/18582088138/18582088138.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-Bingo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
